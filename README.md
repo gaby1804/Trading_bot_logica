@@ -1,5 +1,5 @@
 # Trading_bot_logica
-# 📈 AI-Driven Backtesting with Alpaca and Net Change SDEVs
+# 📈 Backtesting with Alpaca and Net Change SDEVs
 
 Este proyecto realiza un análisis automatizado y backtesting de estrategias de trading basadas en aprendizaje automático y estadísticas del cambio porcentual neto (`Net Change SDEVs`). Utiliza datos históricos de la API de Alpaca Markets, indicadores técnicos avanzados y un clasificador Random Forest para generar señales de compra y venta.
 
